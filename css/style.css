@@ -191,7 +191,7 @@ button.btn-primary:focus, .btn-default:focus, .btn-info:focus {
 	outline: none;
 }
 .btn-lg {
-	width: 180px;
+	width: 250px;
 	height: 57px;
 	line-height: 57px;
 	padding: 0;
